@@ -1,6 +1,6 @@
-
+function addition(a, b) {
+    return a + b;
+  }
   
-let nombre1 = 10;
-let nombre2 = 5;
-let somme = nombre1 + nombre2;
-console.log("La somme est : " + somme);
+  let somme = addition(8, 5);
+  console.log("La somme est : " + somme);
